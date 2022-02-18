@@ -34,10 +34,10 @@
 <code><img height="30" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"></code>
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=mrkc2303&show_icons=true&theme=dracula" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrkc2303&theme=dracula" /> <br> <br> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrkc2303&theme=dracula" /> <br> <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkc2303&theme=dracula&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+<img src = "https://github-readme-stats.vercel.app/api?username=KushagraJain58-cmd&show_icons=true&theme=dracula" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraJain58-cmd&theme=dracula" /> <br> <br> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushagraJain58-cmd&theme=dracula" /> <br> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraJain58-cmd&theme=dracula&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
 </p>
 
 
