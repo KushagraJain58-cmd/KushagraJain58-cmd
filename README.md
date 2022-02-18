@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 -🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about anything about programming
-- 📫 How to reach me: ishaanjain112@gmail.com
+- 📫 How to reach me: jainkushagra582@gmail.com
 - <a href = "https://drive.google.com/file/d/1izudm_V5Iq8_TqWC_uWTh4p05PUBVDVa/view?usp=sharing">Click here to see my Resume</a>
 
 <strong>Languages and Tools used: </strong>
