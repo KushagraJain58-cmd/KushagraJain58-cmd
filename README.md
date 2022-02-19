@@ -44,9 +44,9 @@
 
 <strong>Platforms I use for coding: </strong>
 
-<a href="https://leetcode.com/mrkc2303/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-<a href="https://www.codechef.com/users/mrkc2303" target="_blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
-<a href="https://www.hackerrank.com/kanishkchhabra23" target="_blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href="https://leetcode.com/ishaanjain112/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://www.codechef.com/users/kushagra_58" target="_blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://www.hackerrank.com/Ishaan58" target="_blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=KushagraJain58-cmd&show_icons=true&theme=dracula" />
