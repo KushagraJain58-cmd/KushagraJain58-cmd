@@ -25,7 +25,8 @@
 -🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about anything about programming
 - 📫 How to reach me: jainkushagra582@gmail.com
-- <a href = "https://drive.google.com/file/d/1izudm_V5Iq8_TqWC_uWTh4p05PUBVDVa/view?usp=sharing">Click here to see my Resume</a>
+- <a href="https://kushagrajain.in/" target="_blank">Checkout my website</a>
+- <a href = "https://drive.google.com/file/d/1izudm_V5Iq8_TqWC_uWTh4p05PUBVDVa/view?usp=sharing" target="_blank">Click here to see my Resume</a>
 
 <strong>Languages I use: </strong>
 
