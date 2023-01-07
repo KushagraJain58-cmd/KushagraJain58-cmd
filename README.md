@@ -28,6 +28,9 @@
 - <a href="https://kushagrajain.in/" target="_blank">Checkout my website</a>
 - <a href = "https://drive.google.com/file/d/1izudm_V5Iq8_TqWC_uWTh4p05PUBVDVa/view?usp=sharing" target="_blank">Click here to see my Resume</a>
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<br>
+
 <strong>Languages I use: </strong>
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -49,8 +52,6 @@
 <a href="https://www.codechef.com/users/kushagra_58" target="_blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
 <a href="https://www.hackerrank.com/Ishaan58" target="_blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-<br>
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=KushagraJain58-cmd&show_icons=true&theme=dracula" />
