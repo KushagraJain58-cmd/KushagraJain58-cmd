@@ -49,6 +49,9 @@
 <a href="https://www.codechef.com/users/kushagra_58" target="_blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
 <a href="https://www.hackerrank.com/Ishaan58" target="_blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<br>
+
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=KushagraJain58-cmd&show_icons=true&theme=dracula" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraJain58-cmd&theme=dracula" /> <br> <br> 
