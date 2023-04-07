@@ -20,8 +20,9 @@
 </p> 
 
 
-- 🔭 I’m currently working on Front-End Web Development
+- 🔭 I’m currently working on Full Stack Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
+- 🌍 Also exploring more in programming field
 -🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about anything about programming
 - 📫 How to reach me: jainkushagra582@gmail.com
